@@ -1,0 +1,48 @@
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%);
+}
+body{
+    background:hsl(212, 45%, 89%);
+}
+
+
+
+.main{
+
+    height:450px;
+    width:300px;
+    display:flex;
+    margin-left:40%;
+    margin-top:10%;
+    flex-direction:column;
+    
+    border-radius:10px;
+    background:hsl(0, 0%, 100%);
+
+}
+.main h2{
+    margin-top:15px;;
+    margin-left:20px;
+    margin-right:15px;
+    text-align:center;
+
+
+    
+    
+}
+.main p{
+    margin-top:auto;
+    margin-left:20px;
+    margin-right:20px;
+    text-align:center;
+    font-size:15px;
+
+}
+.main img{
+    margin-left:15px;
+    margin-right:15px;
+    margin-top:15px;
+    border-radius:10px;
+
+}
