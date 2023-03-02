@@ -1,6 +1,6 @@
 
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%);
+.concluder { font-size: 11px; text-align: center; }
+.concluder a { color: hsl(228, 44%, 42%);
 }
 body{
     background:hsl(212, 45%, 89%);
@@ -46,6 +46,6 @@ body{
     border-radius:10px;
 
 }
-.attribution{
+.concluder{
     margin-top:2%;
 }
